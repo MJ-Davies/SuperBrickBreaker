@@ -1,5 +1,5 @@
 # SuperBrickBreaker
-Simple Super Brick Breaker game made from 2019 as a part of the Hawkeyes Drone Academy.
+Simple Super Brick Breaker game made from 2021 as a part of the Hawkeyes Drone Academy.
 
 NOTE: At the time of writing, the game is functional on repl.it.
 ## Copyright Disclaimer
